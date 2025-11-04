@@ -1,4 +1,4 @@
-# CloneBlog - Modern Blog Platform
+# BlogHub - Modern Blog Platform
 
 A full-stack blog platform built with Next.js 15, TypeScript, MongoDB, and NextAuth.js. Features include user authentication, blog creation, commenting, and a responsive design.
 
