@@ -1,5 +1,5 @@
+import { Facebook, Github, Heart, Instagram, Mail, Twitter } from 'lucide-react';
 import Link from 'next/link';
-import { Heart, Mail, Twitter, Facebook, Instagram, Github, Linkedin } from 'lucide-react';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
