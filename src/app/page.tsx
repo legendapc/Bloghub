@@ -268,7 +268,7 @@ export default async function HomePage() {
       </div>
     );
   } catch (error) {
-    console.error('Error in HomePage:', error);
+    console.log('Error in HomePage:', error);
     return (
       <div className="space-y-16">
         <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-primary via-primary/90 to-primary/80 p-8 md:p-12">
